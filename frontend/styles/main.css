@@ -56,4 +56,12 @@ header .btn-get-started {
 header .btn-get-started:hover {
   background-color: #ffaa69;
   color: #fff;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+.section-stats .stats-detail {
+  padding-top: 15px;
+  background-color: #fff;
 }/*# sourceMappingURL=main.css.map */
