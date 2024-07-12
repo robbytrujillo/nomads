@@ -94,4 +94,13 @@ header .btn-get-started:hover {
 }
 .section-popular p {
   font-size: 18px;
+}
+
+.section-popular-content .section-popular-travel .card-travel {
+  min-height: 380px;
+  background-color: #000;
+  color: #fff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
 }/*# sourceMappingURL=main.css.map */
