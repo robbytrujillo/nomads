@@ -101,18 +101,18 @@ header .btn-get-started:hover {
 .section-popular-content .section-popular-travel .card-travel {
   min-height: 380px;
   background-color: #ddd;
-  color: #fff;
+  color: #ffffff;
   padding: 30px;
   background-size: cover;
   margin-bottom: 20px;
 }
 .section-popular-content .section-popular-travel .travel-country {
   font-size: 18px;
-  color: #fff;
+  color: #ffae6f;
 }
 .section-popular-content .section-popular-travel .travel-location {
   font-size: 26px;
-  color: #fff;
+  color: #ffae6f;
 }
 .section-popular-content .section-popular-travel .travel-button .btn-travel-details {
   background-color: #ff9e53;
