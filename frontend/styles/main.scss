@@ -175,3 +175,18 @@ header {
     max-width: 100%;
   }
 }
+
+.section-testimonial-heading {
+  // width: 1366px;
+  // height: 506px;
+  background: linear-gradient(#fff 0%, #f7f9ff 100%);
+  padding-top: 50px;
+  min-height: 506px;
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 40px;
+    
+  }
+}

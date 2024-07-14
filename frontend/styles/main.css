@@ -135,4 +135,15 @@ header .btn-get-started:hover {
 }
 .section-networks img {
   max-width: 100%;
+}
+
+.section-testimonial-heading {
+  background: linear-gradient(#fff 0%, #f7f9ff 100%);
+  padding-top: 50px;
+  min-height: 506px;
+}
+.section-testimonial-heading h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 40px;
 }/*# sourceMappingURL=main.css.map */
