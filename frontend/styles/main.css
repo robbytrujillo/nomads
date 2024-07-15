@@ -132,6 +132,10 @@ header .btn-get-started:hover {
 .section-networks h2 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
+  font-size: 40px;
+}
+.section-networks p {
+  font-size: 18px;
 }
 .section-networks img {
   max-width: 100%;
@@ -146,4 +150,7 @@ header .btn-get-started:hover {
   font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 40px;
+}
+.section-testimonial-heading p {
+  font-size: 18px;
 }/*# sourceMappingURL=main.css.map */
