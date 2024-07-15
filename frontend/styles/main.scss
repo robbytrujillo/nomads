@@ -221,13 +221,18 @@ header {
       font-size: 26px;
       // text-align: center;
       color: #6e6e6e;
-
+      min-height: 200px;
     }
 
     .trip-to {
       font-weight: normal;
       font-size: 22px;
       color: #6e6e6e;
+    }
+
+    hr {
+      margin-left: -20px;
+      margin-right: -20px;
     }
   }
 }
