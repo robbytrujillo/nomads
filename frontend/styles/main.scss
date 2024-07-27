@@ -245,7 +245,7 @@ header {
       color: #fff;
     }
   }
-  
+
   .btn-need-help {
     background-color: #f2f2f2;
     color: #c3c3c3;
@@ -261,4 +261,11 @@ header {
   a {
     color: #071c4d;
   }
+}
+
+// Details
+.section-details-header {
+  min-height: 310px;
+  background: #e4e6eb;
+  margin-top: -68px;
 }
