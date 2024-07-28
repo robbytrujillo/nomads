@@ -212,6 +212,10 @@ header .btn-get-started:hover {
   margin-top: -70px;
 }
 
+.section-details-content {
+  margin-top: -210px;
+  min-height: 100vh;
+}
 .section-details-content .breadcrumb {
   background-color: transparent;
   padding: 0;
