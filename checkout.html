@@ -122,7 +122,16 @@
                   <h2>Add Member</h2>
                   <form action="#" class="form-inline">
                     <label for="inputUsername" class="sr-only">Name</label>
-                    <input type="text" class="form-control mb-2 mr-sm-2">
+                    <input name="inputUsername" type="text"
+                      class="form-control mb-2 mr-sm-2" id="inputUsername"
+                      placeholder="Username">
+                    <label for="inputVisa" class="sr-only">Visa</label>
+                    <select name="inputVisa" id="inputVisa"
+                      class="custom-select mb-2 mr-sm-2">
+                      <option value="VISA" selected>VISA</option>
+                      <option value="30 Days">30 Days</option>
+                      <option value="N/A">N/A</option>
+                    </select>
                   </form>
                 </div>
               </div>
